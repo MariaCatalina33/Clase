@@ -6,6 +6,7 @@ public class App1 {
 		// TODO Apéndice de método generado automáticamente
 
 		System.out.println("hola mundo");
+		System.out.println("adios muy buenas");
 	}
 
 }
